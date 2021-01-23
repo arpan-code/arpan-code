@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpan Patel</h1>
 <h3 align="center">Learning front end development in 2021</h3>
 
-<p align="left"> <a href="https://www.instagram.com/arpan.codes" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="arpan_code" /></a> </p>
+<p align="center"> <a href="https://www.instagram.com/arpan.codes" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="arpan_code" /></a> </p>
 
 - 💼 I’m currently working as a Software Support Engineer at Logistyx Technologies
 
