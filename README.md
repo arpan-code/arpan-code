@@ -19,7 +19,7 @@
 
 <p align="left">
 
-<a href="https://www.instagram.com/arpan.codes" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="arpan_code" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/arpanpatel30/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611341046~hmac=c075e102b120b50dc1ec7e1c11202370" alt="Arpan Linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arpan.codes" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="arpan_code" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/arpanpatel30/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1611361349~hmac=88f749a35a2351b2f0706fbbe7c41502" alt="Arpan Linkedin" height="30" width="40" /></a>
   
 </p>
 
